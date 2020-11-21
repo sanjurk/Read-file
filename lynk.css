@@ -1,0 +1,26 @@
+body
+{
+    background-color: salmon;
+}
+h4
+{
+     color: yellow;
+     font-family: Courier New;
+     font-style: bold;
+}
+h3
+{
+      color: blue;
+      font-family: Courier New;
+      font-style: bold;
+.block
+{
+      display: block;
+      width: 100%;
+      border: none;
+      background-color: orange;
+      padding: 14px 28px;
+      font-size: 16px;
+      cursor: pointer;
+      text-align: center;
+}
